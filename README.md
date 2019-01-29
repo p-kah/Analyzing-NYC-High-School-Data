@@ -1,7 +1,7 @@
 # Analyzing-NYC-High-School-Data
 This project builds ana analysis on SAT score results from NYC High Schools students with their various demographics.
 
-This is to analyse and determine the existence of any form of pattern between the given demographics and the SAT score results.
+This is to analyse and determine the existence of any form of pattern between the given demographics and the SAT score results.Thus, comparing SAT scores by for instance gender and race.
 
 Some of the factors considered include the following below:
 
