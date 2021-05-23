@@ -1,0 +1,13 @@
+{
+	"name": "linkedService1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureFileStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=meganstorage123;EndpointSuffix=core.windows.net;",
+			"fileShare": "meganshare",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIk1FR0FOVEVTVF8xOGE3Mzg5NC00OGM1LTQyYzEtOGU4NS0xZTRhMGQyNDg5MTIiDQp9"
+		}
+	}
+}

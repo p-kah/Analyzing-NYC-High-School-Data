@@ -1,0 +1,9 @@
+{
+	"name": "meganTest",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13a3f84d-b35b-4967-a9c4-8a785b3ab2af",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
